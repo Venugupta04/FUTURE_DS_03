@@ -1,0 +1,260 @@
+EventID,EventName,Department,StudentYear,FeedbackRating,Usefulness,OrganizationQuality,SpeakerQuality,Suggestions,Attendance
+E001,Entrepreneurship Workshop,CSE,2,3,5,3,3,Very helpful for interviews,191
+E002,Photography Contest,MBA,1,5,4,4,3,Fun and creative,157
+E003,Quiz Competition,Science,3,3,4,5,4,Could be more organized,193
+E004,Photography Contest,Training & Placement,3,5,4,5,4,Good activities for confidence,231
+E005,Alumni Meet,Arts,1,5,3,4,4,Fun and creative,199
+E006,Tech Talk on AI,Science,4,5,4,5,3,Needed more hands-on practice,278
+E007,Soft Skills Training,CSE,2,3,4,4,4,Good insights,380
+E008,Photography Contest,IT,2,4,5,4,4,Excellent exposure,179
+E009,Guest Lecture on Ethics,Science,1,4,3,4,5,Useful but too technical,393
+E010,Entrepreneurship Workshop,Mechanical,3,3,3,5,5,Could be more organized,190
+E011,Hackathon 24hr,CSE,4,5,5,5,5,Great platform for students,308
+E012,Drama Night,CSE,2,4,5,5,3,Needed more hands-on practice,306
+E013,Poster Presentation,MBA,3,5,4,3,5,Good exposure to industry,232
+E014,Industrial Visit,Humanities,2,3,5,3,3,Useful but too technical,346
+E015,Quiz Competition,MBA,2,5,3,5,4,Excellent exposure,112
+E016,Guest Lecture on Ethics,Training & Placement,1,3,5,5,4,Good exposure to industry,346
+E017,Debate Competition,IT,3,4,5,5,3,Good exposure to industry,322
+E018,Cultural Fest - Dance,Training & Placement,1,5,5,3,5,Good insights,347
+E019,Robotics Workshop,Humanities,2,3,5,5,4,Good for beginners,254
+E020,Robotics Workshop,Mechanical,2,3,5,5,5,Very engaging,293
+E021,Soft Skills Training,Mechanical,1,4,3,4,3,Good exposure to industry,104
+E022,Industrial Visit,Training & Placement,3,5,3,5,4,Fun and creative,253
+E023,Cultural Fest - Dance,Training & Placement,4,3,5,3,4,Excellent exposure,280
+E024,Poster Presentation,English,2,5,5,3,5,Good exposure to industry,113
+E025,Drama Night,Humanities,1,5,4,3,5,Very challenging and exciting,236
+E026,Cultural Fest - Dance,Humanities,1,3,5,4,4,Very engaging,355
+E027,Web Development Workshop,Humanities,4,3,4,4,3,Great session with real-world examples,146
+E028,Industrial Visit,English,2,3,3,4,3,Amazing energy and fun,276
+E029,Hackathon 24hr,IT,3,5,4,5,5,Needed more hands-on practice,207
+E030,Robotics Workshop,English,3,5,5,5,4,Informative and well explained,219
+E031,Guest Lecture on Ethics,All Departments,3,3,4,5,4,Very entertaining,117
+E032,Drama Night,Arts,2,3,3,4,4,Great session with real-world examples,204
+E033,Research Methodology Seminar,CSE,3,4,3,3,5,Good insights,242
+E034,Placement Preparation Session,CSE,3,3,4,3,3,Needed more hands-on practice,220
+E035,Alumni Meet,English,2,3,4,3,3,Very entertaining,186
+E036,Drama Night,Humanities,3,3,3,3,5,Very interactive but too long,319
+E037,Debate Competition,CSE,2,3,4,3,4,Good for beginners,351
+E038,Soft Skills Training,Humanities,1,5,5,3,3,Very entertaining,121
+E039,Photography Contest,MBA,4,4,4,4,3,Very helpful for interviews,261
+E040,Startup Pitch Event,Science,1,3,4,3,3,Needed more hands-on practice,389
+E041,Cloud Computing Workshop,English,4,3,4,5,3,Good activities for confidence,245
+E042,Soft Skills Training,English,3,5,4,5,3,Fun and creative,226
+E043,Data Science Bootcamp,English,1,5,3,4,5,Very engaging,77
+E044,Research Methodology Seminar,Science,4,4,4,3,4,Fun and creative,386
+E045,Photography Contest,Mechanical,4,4,5,5,4,Fun and creative,70
+E046,Tech Talk on AI,IT,4,4,5,4,4,Fun and creative,76
+E047,Photography Contest,Humanities,1,3,4,5,3,Good exposure to industry,108
+E048,Entrepreneurship Workshop,IT,1,4,5,5,4,Very entertaining,259
+E049,Startup Pitch Event,BioTech,4,5,4,5,5,Could be more organized,290
+E050,Drama Night,Mechanical,2,3,4,3,3,Good exposure to industry,107
+E051,Data Science Bootcamp,MBA,3,4,4,4,3,Great session with real-world examples,203
+E052,Industrial Visit,CSE,1,4,5,5,3,Very engaging,334
+E053,Cloud Computing Workshop,IT,2,3,4,3,4,Too theoretical,71
+E054,Hackathon 24hr,CSE,3,4,5,4,5,Very helpful for interviews,364
+E055,Data Science Bootcamp,Science,3,5,5,3,4,Good activities for confidence,390
+E056,Photography Contest,English,4,3,5,5,3,Very interactive but too long,347
+E057,Entrepreneurship Workshop,BioTech,3,4,5,3,3,Too theoretical,100
+E058,Poster Presentation,Mechanical,3,5,4,3,5,Useful but too technical,326
+E059,Research Methodology Seminar,Science,3,3,3,3,4,Very engaging,158
+E060,Placement Preparation Session,BioTech,2,4,5,4,3,Informative and well explained,396
+E061,Soft Skills Training,IT,2,5,5,3,5,Too theoretical,334
+E062,Alumni Meet,Training & Placement,4,5,5,5,5,Good activities for confidence,393
+E063,Data Science Bootcamp,IT,4,3,4,5,3,Great platform for students,305
+E064,Alumni Meet,Mechanical,1,3,3,3,5,Good for beginners,163
+E065,Photography Contest,Humanities,1,5,5,3,4,Useful but too technical,274
+E066,Alumni Meet,Science,3,5,4,4,3,Very entertaining,276
+E067,Photography Contest,English,4,4,5,5,5,Amazing energy and fun,188
+E068,Photography Contest,IT,3,3,4,4,4,Good activities for confidence,151
+E069,Hackathon 24hr,Mechanical,2,4,5,5,5,Very entertaining,151
+E070,Soft Skills Training,CSE,2,5,4,5,3,Very helpful for interviews,283
+E071,Tech Talk on AI,Training & Placement,4,5,5,5,5,Needed more hands-on practice,293
+E072,Guest Lecture on Ethics,Training & Placement,1,3,4,5,5,Good activities for confidence,118
+E073,Poster Presentation,EEE,2,5,4,4,4,Could be more organized,112
+E074,Poster Presentation,All Departments,3,4,3,3,4,Informative and well explained,342
+E075,Hackathon 24hr,Arts,1,4,4,4,4,Great session with real-world examples,214
+E076,Photography Contest,English,4,4,4,5,5,Very entertaining,50
+E077,Cultural Fest - Dance,Training & Placement,4,4,3,3,5,Good activities for confidence,143
+E078,Guest Lecture on Ethics,English,1,4,5,5,5,Could be more organized,267
+E079,Tech Talk on AI,English,4,4,3,5,3,Fun and creative,185
+E080,Photography Contest,All Departments,4,5,3,5,4,Very challenging and exciting,252
+E081,Guest Lecture on Ethics,IT,4,4,3,5,3,Useful but too technical,227
+E082,Tech Talk on AI,BioTech,3,3,3,5,5,Very entertaining,100
+E083,Guest Lecture on Ethics,All Departments,1,4,3,5,4,Very challenging and exciting,364
+E084,Data Science Bootcamp,Humanities,4,4,5,5,5,Very helpful for interviews,366
+E085,Hackathon 24hr,CSE,2,4,5,5,4,Good exposure to industry,113
+E086,Placement Preparation Session,CSE,1,5,4,3,5,Great session with real-world examples,231
+E087,Cloud Computing Workshop,Arts,4,3,3,4,5,Memorable experience,219
+E088,Quiz Competition,IT,2,5,4,4,5,Good exposure to industry,246
+E089,Industrial Visit,Science,1,5,4,4,3,Useful but too technical,305
+E090,Photography Contest,Science,2,4,4,5,3,Too theoretical,362
+E091,Robotics Workshop,Humanities,4,3,3,5,4,Good activities for confidence,376
+E092,Research Methodology Seminar,BioTech,3,3,4,5,4,Fun and creative,352
+E093,Robotics Workshop,All Departments,1,3,3,3,5,Excellent exposure,123
+E094,Debate Competition,BioTech,3,4,4,5,3,Great session with real-world examples,177
+E095,Hackathon 24hr,All Departments,3,4,4,3,4,Informative and well explained,208
+E096,Soft Skills Training,CSE,1,5,5,5,5,Great session with real-world examples,347
+E097,Quiz Competition,English,1,5,5,4,4,Useful but too technical,236
+E098,Quiz Competition,IT,3,3,4,3,5,Needed more hands-on practice,372
+E099,Photography Contest,Training & Placement,4,4,3,3,5,Amazing energy and fun,304
+E100,Alumni Meet,BioTech,1,5,3,4,4,Very entertaining,317
+E101,Drama Night,Science,4,3,4,4,5,Excellent exposure,161
+E102,Robotics Workshop,MBA,2,3,5,4,5,Memorable experience,155
+E103,Data Science Bootcamp,Mechanical,1,3,4,3,5,Very entertaining,284
+E104,Quiz Competition,English,4,4,3,5,4,Excellent exposure,99
+E105,Robotics Workshop,BioTech,4,3,3,3,5,Needed more hands-on practice,267
+E106,Web Development Workshop,All Departments,2,3,5,5,3,Amazing energy and fun,247
+E107,Startup Pitch Event,IT,1,3,4,5,5,Needed more hands-on practice,387
+E108,Placement Preparation Session,English,1,4,3,3,5,Amazing energy and fun,65
+E109,Guest Lecture on Ethics,Science,4,4,3,3,4,Very challenging and exciting,63
+E110,Quiz Competition,CSE,1,3,5,3,3,Good activities for confidence,363
+E111,Robotics Workshop,Science,3,5,4,5,4,Good activities for confidence,203
+E112,Guest Lecture on Ethics,EEE,3,5,5,4,5,Excellent exposure,212
+E113,Hackathon 24hr,Science,1,4,5,5,4,Too theoretical,383
+E114,Robotics Workshop,CSE,1,5,5,4,4,Too theoretical,383
+E115,Drama Night,English,2,4,5,5,4,Useful but too technical,142
+E116,Web Development Workshop,Science,1,4,4,4,3,Good exposure to industry,315
+E117,Entrepreneurship Workshop,BioTech,1,3,4,3,3,Memorable experience,217
+E118,Quiz Competition,Science,2,4,4,5,3,Memorable experience,73
+E119,Entrepreneurship Workshop,CSE,3,5,4,5,3,Good for beginners,381
+E120,Research Methodology Seminar,Science,2,5,5,4,5,Very engaging,323
+E121,Web Development Workshop,Arts,2,3,4,3,5,Memorable experience,54
+E122,Tech Talk on AI,EEE,1,3,4,3,3,Excellent exposure,242
+E123,Debate Competition,BioTech,3,5,4,5,4,Good insights,273
+E124,Debate Competition,CSE,2,5,4,4,5,Excellent exposure,194
+E125,Cloud Computing Workshop,Training & Placement,3,5,4,5,4,Great session with real-world examples,370
+E126,Quiz Competition,English,4,3,4,5,4,Very helpful for interviews,193
+E127,Placement Preparation Session,IT,2,5,5,5,4,Very challenging and exciting,199
+E128,Cloud Computing Workshop,Training & Placement,2,3,3,3,4,Good for beginners,364
+E129,Placement Preparation Session,EEE,2,4,3,5,5,Needed more hands-on practice,309
+E130,Tech Talk on AI,Arts,3,4,5,3,3,Too theoretical,359
+E131,Photography Contest,IT,2,5,4,5,3,Very helpful for interviews,331
+E132,Photography Contest,English,1,3,4,3,3,Excellent exposure,64
+E133,Cultural Fest - Dance,English,3,5,3,4,3,Very interactive but too long,77
+E134,Poster Presentation,English,4,4,4,4,3,Very engaging,120
+E135,Debate Competition,MBA,4,4,3,5,4,Very entertaining,220
+E136,Web Development Workshop,IT,3,4,5,4,4,Too theoretical,370
+E137,Startup Pitch Event,EEE,1,4,4,5,3,Good exposure to industry,122
+E138,Quiz Competition,Arts,1,4,3,3,3,Very challenging and exciting,129
+E139,Data Science Bootcamp,English,3,3,4,4,4,Good for beginners,151
+E140,Poster Presentation,EEE,4,4,3,4,5,Memorable experience,245
+E141,Industrial Visit,Mechanical,3,5,3,4,3,Great platform for students,315
+E142,Debate Competition,CSE,1,3,3,5,4,Very helpful for interviews,104
+E143,Cloud Computing Workshop,EEE,2,4,4,4,4,Very helpful for interviews,149
+E144,Photography Contest,Science,2,3,5,3,5,Too theoretical,257
+E145,Robotics Workshop,Humanities,3,5,3,3,3,Good activities for confidence,239
+E146,Guest Lecture on Ethics,Mechanical,3,3,3,3,3,Good insights,382
+E147,Hackathon 24hr,Mechanical,2,4,5,4,3,Informative and well explained,251
+E148,Alumni Meet,BioTech,3,5,4,5,5,Could be more organized,299
+E149,Entrepreneurship Workshop,IT,1,5,3,4,5,Excellent exposure,373
+E150,Guest Lecture on Ethics,Humanities,3,3,3,3,5,Very challenging and exciting,302
+E151,Debate Competition,All Departments,4,3,5,5,3,Amazing energy and fun,100
+E152,Industrial Visit,Mechanical,3,4,5,3,4,Memorable experience,188
+E153,Hackathon 24hr,CSE,1,3,5,3,5,Too theoretical,217
+E154,Data Science Bootcamp,Training & Placement,3,4,4,4,3,Very helpful for interviews,75
+E155,Photography Contest,CSE,3,5,3,4,3,Great session with real-world examples,197
+E156,Robotics Workshop,Arts,1,5,3,4,4,Good exposure to industry,161
+E157,Guest Lecture on Ethics,MBA,4,3,4,3,5,Very helpful for interviews,73
+E158,Soft Skills Training,Mechanical,2,4,4,4,5,Very interactive but too long,206
+E159,Cloud Computing Workshop,Arts,3,4,3,4,5,Great session with real-world examples,344
+E160,Quiz Competition,Science,3,4,3,3,4,Could be more organized,289
+E161,Guest Lecture on Ethics,Science,1,3,5,3,5,Could be more organized,383
+E162,Placement Preparation Session,CSE,1,5,5,3,4,Very challenging and exciting,90
+E163,Startup Pitch Event,Science,1,4,4,3,3,Amazing energy and fun,128
+E164,Debate Competition,Science,1,4,3,3,5,Very challenging and exciting,344
+E165,Industrial Visit,Humanities,2,4,4,3,4,Needed more hands-on practice,332
+E166,Research Methodology Seminar,Science,2,5,4,5,3,Needed more hands-on practice,168
+E167,Cloud Computing Workshop,BioTech,3,4,4,5,4,Good activities for confidence,112
+E168,Robotics Workshop,BioTech,3,3,3,4,4,Memorable experience,78
+E169,Research Methodology Seminar,EEE,2,5,4,3,3,Very engaging,105
+E170,Startup Pitch Event,Arts,4,3,4,5,5,Useful but too technical,57
+E171,Drama Night,IT,1,3,5,3,5,Good exposure to industry,361
+E172,Placement Preparation Session,All Departments,3,5,3,4,3,Amazing energy and fun,247
+E173,Placement Preparation Session,MBA,1,3,5,5,4,Good activities for confidence,322
+E174,Cultural Fest - Dance,All Departments,3,3,5,5,4,Could be more organized,395
+E175,Entrepreneurship Workshop,IT,2,3,5,5,4,Good exposure to industry,275
+E176,Debate Competition,IT,2,5,3,5,5,Could be more organized,144
+E177,Poster Presentation,MBA,1,4,4,3,4,Good for beginners,77
+E178,Industrial Visit,Training & Placement,3,3,5,5,5,Great platform for students,326
+E179,Web Development Workshop,BioTech,3,5,4,3,3,Could be more organized,355
+E180,Photography Contest,Arts,3,3,4,4,4,Amazing energy and fun,184
+E181,Entrepreneurship Workshop,All Departments,1,3,5,3,5,Too theoretical,112
+E182,Tech Talk on AI,Training & Placement,4,5,4,4,4,Too theoretical,206
+E183,Industrial Visit,All Departments,3,3,4,3,5,Very challenging and exciting,111
+E184,Alumni Meet,IT,4,4,5,4,4,Could be more organized,95
+E185,Research Methodology Seminar,Training & Placement,1,4,3,5,3,Informative and well explained,122
+E186,Quiz Competition,English,2,3,5,3,4,Very helpful for interviews,255
+E187,Alumni Meet,Arts,4,4,5,5,3,Great session with real-world examples,294
+E188,Cultural Fest - Dance,All Departments,2,4,3,4,5,Great session with real-world examples,232
+E189,Debate Competition,IT,2,5,4,5,4,Good for beginners,192
+E190,Cloud Computing Workshop,MBA,1,5,4,3,3,Excellent exposure,67
+E191,Photography Contest,IT,1,4,5,4,4,Needed more hands-on practice,94
+E192,Photography Contest,IT,1,4,3,4,5,Very helpful for interviews,95
+E193,Industrial Visit,Science,4,5,3,3,3,Needed more hands-on practice,82
+E194,Entrepreneurship Workshop,English,4,5,3,4,3,Good exposure to industry,169
+E195,Poster Presentation,Humanities,1,3,5,5,3,Good exposure to industry,122
+E196,Industrial Visit,English,3,5,3,5,4,Useful but too technical,342
+E197,Photography Contest,EEE,3,5,3,4,4,Very engaging,137
+E198,Entrepreneurship Workshop,Arts,2,3,5,3,5,Amazing energy and fun,217
+E199,Debate Competition,Arts,4,3,4,5,5,Amazing energy and fun,248
+E200,Web Development Workshop,All Departments,4,5,5,5,3,Very entertaining,124
+E201,Hackathon 24hr,Science,1,4,3,4,3,Good activities for confidence,214
+E202,Poster Presentation,CSE,4,3,4,5,3,Very challenging and exciting,195
+E203,Photography Contest,Mechanical,1,5,3,3,4,Memorable experience,266
+E204,Alumni Meet,BioTech,1,5,5,5,5,Excellent exposure,350
+E205,Photography Contest,Humanities,4,3,3,5,3,Good insights,263
+E206,Soft Skills Training,EEE,4,5,3,5,3,Good exposure to industry,240
+E207,Startup Pitch Event,EEE,2,5,5,5,3,Good insights,182
+E208,Cultural Fest - Dance,All Departments,1,5,4,5,3,Good for beginners,243
+E209,Cultural Fest - Dance,Arts,3,4,4,5,5,Very interactive but too long,222
+E210,Entrepreneurship Workshop,EEE,3,4,5,4,3,Excellent exposure,391
+E211,Poster Presentation,CSE,2,3,5,3,3,Excellent exposure,141
+E212,Drama Night,CSE,3,5,4,4,5,Good activities for confidence,213
+E213,Photography Contest,English,2,3,4,4,4,Very interactive but too long,364
+E214,Drama Night,EEE,2,3,5,3,3,Good for beginners,226
+E215,Tech Talk on AI,Training & Placement,1,4,4,5,4,Good insights,349
+E216,Research Methodology Seminar,Science,4,3,5,4,3,Very helpful for interviews,317
+E217,Alumni Meet,Training & Placement,1,4,5,3,3,Amazing energy and fun,192
+E218,Robotics Workshop,CSE,4,5,4,3,4,Very interactive but too long,290
+E219,Web Development Workshop,Mechanical,3,5,5,3,5,Good activities for confidence,127
+E220,Photography Contest,All Departments,3,4,3,4,4,Very helpful for interviews,260
+E221,Cloud Computing Workshop,MBA,1,3,4,3,3,Good activities for confidence,187
+E222,Poster Presentation,Mechanical,3,5,4,4,4,Great session with real-world examples,229
+E223,Startup Pitch Event,EEE,4,3,5,3,4,Fun and creative,265
+E224,Debate Competition,Science,2,3,4,4,3,Too theoretical,212
+E225,Robotics Workshop,Training & Placement,1,3,3,3,4,Fun and creative,120
+E226,Debate Competition,Humanities,2,3,4,4,3,Needed more hands-on practice,78
+E227,Cultural Fest - Dance,EEE,3,5,4,3,3,Good activities for confidence,212
+E228,Hackathon 24hr,Mechanical,4,5,4,3,3,Very entertaining,248
+E229,Cloud Computing Workshop,English,4,4,3,3,4,Great session with real-world examples,104
+E230,Poster Presentation,EEE,2,3,3,5,5,Great platform for students,168
+E231,Robotics Workshop,All Departments,3,3,5,3,3,Too theoretical,325
+E232,Poster Presentation,CSE,3,4,5,5,4,Very interactive but too long,361
+E233,Web Development Workshop,Humanities,1,3,4,3,4,Very interactive but too long,386
+E234,Entrepreneurship Workshop,All Departments,3,5,5,4,5,Excellent exposure,167
+E235,Guest Lecture on Ethics,Science,2,4,5,3,3,Amazing energy and fun,101
+E236,Drama Night,All Departments,1,4,3,3,3,Good activities for confidence,307
+E237,Entrepreneurship Workshop,BioTech,1,5,3,4,3,Good insights,308
+E238,Photography Contest,BioTech,4,4,3,5,5,Could be more organized,92
+E239,Cloud Computing Workshop,EEE,4,5,3,3,4,Very interactive but too long,337
+E240,Debate Competition,IT,1,5,3,5,5,Amazing energy and fun,68
+E241,Drama Night,MBA,1,4,3,4,5,Too theoretical,271
+E242,Industrial Visit,BioTech,2,4,4,3,5,Very interactive but too long,263
+E243,Drama Night,BioTech,4,5,3,4,3,Great session with real-world examples,361
+E244,Robotics Workshop,Mechanical,2,5,3,3,5,Needed more hands-on practice,175
+E245,Alumni Meet,English,2,3,3,3,3,Very entertaining,304
+E246,Soft Skills Training,EEE,3,3,5,5,4,Could be more organized,376
+E247,Drama Night,Mechanical,4,3,4,5,4,Very interactive but too long,304
+E248,Guest Lecture on Ethics,All Departments,3,3,3,4,4,Useful but too technical,197
+E249,Startup Pitch Event,Science,3,3,3,3,3,Useful but too technical,155
+E250,Quiz Competition,Arts,4,5,5,4,3,Needed more hands-on practice,340
+E251,Photography Contest,MBA,1,5,3,3,3,Excellent exposure,139
+E252,Alumni Meet,MBA,2,4,5,4,5,Too theoretical,305
+E253,Photography Contest,Science,1,4,3,5,3,Fun and creative,257
+E254,Startup Pitch Event,EEE,1,5,3,4,3,Memorable experience,186
+E255,Cloud Computing Workshop,Science,1,5,4,3,4,Could be more organized,233
+E256,Industrial Visit,IT,2,3,3,5,5,Very helpful for interviews,105
+E257,Debate Competition,CSE,2,3,5,4,3,Great session with real-world examples,368
+E258,Cultural Fest - Dance,Science,4,4,4,4,4,Fun and creative,248
+E259,Web Development Workshop,English,1,5,3,3,5,Great session with real-world examples,155
